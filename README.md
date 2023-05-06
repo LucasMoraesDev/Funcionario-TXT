@@ -31,6 +31,3 @@ O projeto foi desenvolvido seguindo os princípios da Orientação a Objetos, ut
 3. Executar a classe Program
 4. Informar os dados do Funcionário quando solicitado
 5. Verificar o arquivo funcionario.txt gerado na pasta c:\temp\funcionario.txt
-
-## Autor
-@LucasMoraesDev
